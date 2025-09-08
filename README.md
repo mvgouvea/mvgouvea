@@ -4,8 +4,7 @@
 🚀 Focado em qualidade, inovação e entregas ágeis.  
 
 ### 📚 Em aprendizado
-- Dados (Awari)  
-- Figma (Design)  
+- Data Science, Figma (Awari)  
 - Java (EBAC)  
 
 ### 🛠️ Experiência

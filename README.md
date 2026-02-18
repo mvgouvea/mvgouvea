@@ -16,11 +16,12 @@
 
 ### 
 
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mvgouvea&show_icons=true&locale=en" alt="mvgouvea" height="150""/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvgouvea&show_icons=true&locale=en&layout=compact" alt="mvgouvea" height="150"/>
 </div>
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
